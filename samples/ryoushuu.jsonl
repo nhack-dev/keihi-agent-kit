@@ -1,0 +1,3 @@
+{"file": "ryoushuu/r001.jpg", "date": "2026-09-02", "amount": 1480, "mise": "見本タクシー", "invoice_no": "T0000000000001", "uchiwake": {"10": 1480}, "naiyou": "移動（見本）", "shiharai": "見本カード", "yomi": "高"}
+{"file": "ryoushuu/r002.jpg", "date": "2026-09-03", "amount": 1100, "mise": "見本カフェ", "invoice_no": "T000000000000", "uchiwake": {"10": 1100}, "shiharai": "見本カード", "yomi": "中", "yomenai": "登録番号の最後の1桁がかすれている"}
+{"file": "ryoushuu/r003.pdf", "date": "2026-09-09", "amount": 880, "mise": "見本文具店", "invoice_no": "T0000000000002", "uchiwake": {"10": 550, "8": 330}, "naiyou": "ノート・飲み物（見本）", "shiharai": "現金", "yomi": "高"}

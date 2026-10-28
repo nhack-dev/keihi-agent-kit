@@ -1,0 +1,8 @@
+.env
+config/*.json
+!config/*.example.json
+data/
+out/
+hozon/
+__pycache__/
+.DS_Store
